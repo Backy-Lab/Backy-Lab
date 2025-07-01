@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Backy-Lab
+- 👋 Hi, I’m Kartik Shahu
 - 👀 I’m interested in codinng.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on for a person who is good at java , because i want to learn form them :).
