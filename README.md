@@ -1,12 +1,1 @@
-- 👋 Hi, I’m Kartik Shahu
-- 👀 I’m interested in codinng.
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on for a person who is good at java , because i want to learn form them :).
-- 📫 How to reach me at backy128@gmail.com .
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm in your care :) .
-
-<!---
-Backy-Lab/Backy-Lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Kartik Shahu , a passionate and results-driven software developer specializing in C , C++ , Java , Web Development . I enjoy building scalable and efficient solutions that solve real-world problems. My GitHub showcases my best projects, open-source contributions, and continuous learning journey. I’m actively seeking new opportunities to contribute my skills in Java developer , collaborate with innovative teams, and grow as a developer. Feel free to explore my repositories and reach out if you'd like to connect!
