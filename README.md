@@ -11,7 +11,7 @@ I'm currently seeking exciting opportunities as a **Java Developer**, looking to
 ### 🧠 Skills & Technologies  
 - Programming: C, C++, Java  
 - Web: HTML, CSS, JavaScript, Node.js  
-- Tools & Platforms: Git, GitHub, VS Code  
+- Tools & Platforms: Git, GitHub, VS Code and eclipse.  
 
 ---
 
