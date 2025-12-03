@@ -16,7 +16,7 @@ I'm currently seeking exciting opportunities as a **Java Developer**, looking to
 ---
 
 ### 📫 Let's Connect!    
-- 📧 Email: kartikshahu120.com  
+- 📧 Email: kartikshahu120@gmailcom  
 
 ---
 
